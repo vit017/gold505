@@ -4,9 +4,6 @@ namespace V\Gold505;
 
 class Row
 {
-
-    public static $ids = 1;
-
     public $id;
     public $date;
     public $kbk;
